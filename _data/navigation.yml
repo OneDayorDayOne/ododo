@@ -1,5 +1,11 @@
 # main links
 main:
+  - title: "Ramblings"
+    url: /Ramblings/
+  - title: "Doings"
+    url: /Doings/
+  - title: "Poems"
+    url: /Poems/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
